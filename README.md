@@ -1,3 +1,3 @@
 # bookshelf-project
 
-Aplikasi Rak Buku dengan menerapkan DOM menggunakan javascript
+Aplikasi Pengelolaan Data buku Menggunakan DOM dan Web Storage
